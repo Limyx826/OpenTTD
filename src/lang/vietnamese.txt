@@ -975,6 +975,7 @@ STR_GAME_OPTIONS_CURRENCY_HKD                                   :Đô-la Hồng 
 STR_GAME_OPTIONS_CURRENCY_INR                                   :Rupee Ấn Độ (INR)
 STR_GAME_OPTIONS_CURRENCY_IDR                                   :Rupiah Indonesia (IDR)
 STR_GAME_OPTIONS_CURRENCY_MYR                                   :Ringgit Malaysia (MYR)
+STR_GAME_OPTIONS_CURRENCY_SGD                                   :Đô la Singapore (SGD)
 
 STR_GAME_OPTIONS_AUTOSAVE_FRAME                                 :{BLACK}Lưu tự động
 STR_GAME_OPTIONS_AUTOSAVE_DROPDOWN_TOOLTIP                      :{BLACK}Lựa chọn khoảng thời gian tự động lưu

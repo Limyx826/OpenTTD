@@ -974,7 +974,8 @@ STR_GAME_OPTIONS_CURRENCY_CNY                                   :中国人民币
 STR_GAME_OPTIONS_CURRENCY_HKD                                   :港币 (HKD)
 STR_GAME_OPTIONS_CURRENCY_INR                                   :印度卢布（INR）
 STR_GAME_OPTIONS_CURRENCY_IDR                                   :印尼盾 (IDR)
-STR_GAME_OPTIONS_CURRENCY_MYR                                   :马来西亚林吉特 (MYR)
+STR_GAME_OPTIONS_CURRENCY_MYR                                   :马来西亚令吉 (MYR)
+STR_GAME_OPTIONS_CURRENCY_SGD                                   :新加坡元 (SGD)
 
 STR_GAME_OPTIONS_AUTOSAVE_FRAME                                 :{BLACK}自动保存
 STR_GAME_OPTIONS_AUTOSAVE_DROPDOWN_TOOLTIP                      :{BLACK}选择自动保存的周期
